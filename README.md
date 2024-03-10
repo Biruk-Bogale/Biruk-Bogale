@@ -9,7 +9,7 @@ My Name is Biruk Bogale and I am a Full-Stack Developer based in Addis Ababa, Et
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
 <br/>
 
 ### Social
